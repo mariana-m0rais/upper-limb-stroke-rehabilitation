@@ -6,11 +6,11 @@ EMG Signal Analysis and Video-Based Motion Tracking
 * **Mariana Morais** - [mariana-m0rais](https://github.com/mariana-m0rais)
 
 
-Overview:
+## Overview
 This project implements a multimodal system for analyzing upper limb movement in the context of stroke rehabilitation. It combines electromyography (EMG) data acquisition from a BITalino device with real-time video capture and pose estimation using MediaPipe. The system allows for synchronized collection of physiological and visual data, enabling detailed analysis of muscle activation patterns and limb movement. The output includes both a processed EMG signal and the real-time count and analysis of arm movements performed by the user.
 
 
-Requirements:
+## Requirements
 This project was developed and tested with Python 3.10. 
 
 It uses the BITalino (r)evolution Python API to interface with the BITalino board via Bluetooth.
@@ -22,7 +22,7 @@ The additional necessary packages can be installed with:
 pip install numpy matplotlib scipy opencv-python mediapipe
 
 
-Outputs:
+## Outputs
 Real-time display of:
    - Repetitions detected based on elbow angle.
    - Annotated webcam feed with pose landmarks.
