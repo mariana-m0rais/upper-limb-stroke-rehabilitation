@@ -1,7 +1,9 @@
 A Multimodal Approach to Upper Limb Stroke Rehabilitation:
 EMG Signal Analysis and Video-Based Motion Tracking
 --------------------------------------------------------------
-By Maria Fidalgo (2021235050) and Mariana Morais (2021236380)
+## Authors
+* **Maria Fidalgo** 
+* **Mariana Morais** - [mariana-m0rais](https://github.com/mariana-m0rais)
 
 
 Overview:
@@ -16,7 +18,7 @@ To install and configure it correctly, please follow the official installation i
 🔗 https://github.com/BITalinoWorld/revolution-python-api/blob/master/README.md
 Make sure to follow all prerequisites and steps outlined there for your operating system.
 
-The necessary packages can be installed with:
+The additional necessary packages can be installed with:
 pip install numpy matplotlib scipy opencv-python mediapipe
 
 
