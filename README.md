@@ -5,6 +5,11 @@ EMG Signal Analysis and Video-Based Motion Tracking
 * **Maria Fidalgo** 
 * **Mariana Morais** - [mariana-m0rais](https://github.com/mariana-m0rais)
 
+*Master in Biomedical Engineering | University of Coimbra*
+
+## Context
+This project was developed in the academic year 2024/2025 as part of the curriculum for the Master's degree in Biomedical Engineering at the University of Coimbra, specifically for the course of Clinical Computing and Telehealth Systems. 
+
 
 ## Overview
 This project implements a multimodal system for analyzing upper limb movement in the context of stroke rehabilitation. It combines electromyography (EMG) data acquisition from a BITalino device with real-time video capture and pose estimation using MediaPipe. The system allows for synchronized collection of physiological and visual data, enabling detailed analysis of muscle activation patterns and limb movement. The output includes both a processed EMG signal and the real-time count and analysis of arm movements performed by the user.
