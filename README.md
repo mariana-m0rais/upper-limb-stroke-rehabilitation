@@ -2,7 +2,7 @@ A Multimodal Approach to Upper Limb Stroke Rehabilitation:
 EMG Signal Analysis and Video-Based Motion Tracking
 --------------------------------------------------------------
 ## Authors
-* **Maria Fidalgo** 
+* **Maria Fidalgo** - [mariafidalgo22](https://github.com/mariafidalgo22)
 * **Mariana Morais** - [mariana-m0rais](https://github.com/mariana-m0rais)
 
 *Master in Biomedical Engineering | University of Coimbra*
